@@ -1,0 +1,19 @@
+{
+  "name": "api3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.9",
+    "@hapi/inert": "^7.1.0",
+    "@hapi/joi": "^17.1.1",
+    "@hapi/vision": "^7.0.3",
+    "mysql": "^2.18.1"
+  }
+}
